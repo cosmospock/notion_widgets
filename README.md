@@ -1,6 +1,5 @@
-# notion widgets
 
-<img src=images/gallery-with-cover/NotionBanner.png >
+![alt text](https://github.com/cosmospock/notion_widgets/blob/main/images/NotionBanner.png) 
 
 <h1> 
 Notion Widgets!
