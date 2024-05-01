@@ -1,3 +1,15 @@
-# notion_widgets
-A set of HTML widgets that could be embedded into [Notion.so](https://www.notion.so/) pages.
-[learn more](https://blog.shorouk.dev/notion-widgets-gallery/)
+# notion widgets
+
+<img src=images/gallery-with-cover/NotionBanner.png >
+
+<h1> 
+Notion Widgets!
+</h1>
+
+<p>
+These are customizable depending on the strength of your coding knowledge. 
+If there is anything I can help you adjust, let me know! 
+
+<h2> To use: Copy + Paste the embedded code into Notion </h2>
+
+</p>
